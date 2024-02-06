@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Workaround", "Workaround\Workaround.csproj", "{E09AA6FF-A7DF-4EC9-8891-2FC4ECAA5894}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entities", "Entities\Entities.csproj", "{DC8E9D67-B90C-4621-AD53-37B529FF1895}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Business", "Business\Business.csproj", "{D0E47EF6-7113-4E49-953C-0EC8F7DFF1A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E09AA6FF-A7DF-4EC9-8891-2FC4ECAA5894}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E09AA6FF-A7DF-4EC9-8891-2FC4ECAA5894}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E09AA6FF-A7DF-4EC9-8891-2FC4ECAA5894}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E09AA6FF-A7DF-4EC9-8891-2FC4ECAA5894}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC8E9D67-B90C-4621-AD53-37B529FF1895}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC8E9D67-B90C-4621-AD53-37B529FF1895}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC8E9D67-B90C-4621-AD53-37B529FF1895}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC8E9D67-B90C-4621-AD53-37B529FF1895}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0E47EF6-7113-4E49-953C-0EC8F7DFF1A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0E47EF6-7113-4E49-953C-0EC8F7DFF1A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0E47EF6-7113-4E49-953C-0EC8F7DFF1A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0E47EF6-7113-4E49-953C-0EC8F7DFF1A3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3C173B3D-1738-452C-892E-26BED893637A}
+	EndGlobalSection
+EndGlobal
